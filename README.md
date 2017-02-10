@@ -1,6 +1,6 @@
 # cardapio-de-jogos
 
-FIXME: description
+Clojure Backend
 
 ## Installation
 
